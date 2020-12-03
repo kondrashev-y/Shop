@@ -18,7 +18,3 @@ urlpatterns = [
     path('notebooks/<int:pk>/', NotebookDetailApiView.as_view(), name='notebook_detail'),
 ]
 
-
-asdfghjkl
-sdfghjkl
-dfghjkl
